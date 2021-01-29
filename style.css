@@ -1,0 +1,17 @@
+.wrapper {
+    width: 50%;
+    margin: 10em auto;
+    box-shadow: 5px 5px 15px 10px rgb(177,177,177, 0.4);
+    padding: 5em 2em;
+}
+
+.wrapper-item {
+    display: block;
+    padding: 0.2em;
+    margin: 0px 40%;
+}
+
+#main-content {
+    border: 2px solid black;
+    box-shadow: 5px 5px 15px 10px rgb(177,177,177, 0.4);
+}
